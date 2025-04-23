@@ -65,7 +65,7 @@ const Navbar = () => {
 
             {/* Resume Button */}
             <motion.a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1OiKcMEUfTRkuavR5I3ei09AoVx5AU4yL/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0 }}
