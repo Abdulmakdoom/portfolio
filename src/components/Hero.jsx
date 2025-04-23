@@ -5,7 +5,7 @@ import { Typewriter } from 'react-simple-typewriter';
 
 const Hero = () => {
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-12 py-12 sm:py-20 bg-gray-200 dark:bg-[#212121] text-gray-800 dark:text-gray-200">
+    <section id="home" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-12 py-12 sm:py-20 bg-gray-200 dark:bg-[#212121] text-gray-800 dark:text-gray-200 mt-10 sm:mt-0">
       <div className="max-w-[1300px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
 
         {/* Left Side */}
