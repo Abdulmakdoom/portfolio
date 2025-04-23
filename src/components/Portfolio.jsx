@@ -7,7 +7,7 @@ const Portfolio = () => {
     {
       title: 'VideoTube - Full-Stack Video Streaming Platform',
       description: 'Developed a full-stack web application similar to YouTube, allowing users to upload, view, and manage video content with secure authentication and seamless video streaming.',
-      image: 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/6ac113d1-b624-42ea-b333-adb249356c73.jpeg',
+      image: 'https://media-hosting.imagekit.io/72ca59a0fa534988/Screenshot%202025-04-23%20at%2011.19.14%E2%80%AFPM.png?Expires=1840038633&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z4AduFEBdCO-b6zuCmQwHsbOfvZvi9mpXCzWnuMUbqEZiKlwlIXUV2Tpda6JuTNxYSocmigXi8HiKmKZ4i9R6thb9Qi58zbAQ0NBZL43WoZdDCGSTMlcuUzTPtVaMcjyh730DoLo0bTHGOTv4~MkjHvR5usi0JpHgCPG18cvouELUm9ldgOmvkgbaFSp6VtTKYPF4DY8mvyTh0eotgrtw6fQTR4yspfry-H3UXY5IDJblpNKEccjusgFYLcnbihKuGwl5dbaFZ29gfB~M8kyMZ96KSxpkzVhay63xDOG-9lZugRTTx48JDmU~6EkMgb6UbPK7HMDf2GsVh0WhBwB1w__',
       tech: ['React.js', 'MongoDB', 'Express', 'Node.js', 'JWT', 'Bcrypt', 'Cloudinary', 'Atlas Database'],
       github: 'https://github.com/Abdulmakdoom/videotube',
       demo: 'https://videotube-frontend-one.vercel.app/'
