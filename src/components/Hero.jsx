@@ -94,7 +94,7 @@ const Hero = () => {
          >
            <div className="bg-white p-4 rounded-lg shadow-lg dark:bg-[#212121] transition-all duration-500 ease-in-out hover:shadow-gray-600 w-3/5 mx-auto border border-gray-300 border-10"> {/* Adjust border width here */}
              <motion.img 
-               src="https://i.postimg.cc/QNQ3NhX6/freepicdownloader-com-man-sits-desk-with-computer-computer-screen-with-word-space-it-large.jpg" 
+               src="https://img.freepik.com/premium-vector/web-development-programmer-code-testing-augmented-reality-illustration_375605-311.jpg?w=1380" 
                alt="Developer" 
                //className="w-full h-64 max-w-xs mx-auto rounded-md object-cover"
               // whileHover={{ scale: 1.05, y: -5 }}
