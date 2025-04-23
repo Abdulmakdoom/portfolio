@@ -94,7 +94,7 @@ const Hero = () => {
          >
            <div className="bg-white p-4 rounded-lg shadow-lg dark:bg-[#212121] transition-all duration-500 ease-in-out hover:shadow-gray-600 w-3/5 mx-auto border border-gray-300 border-10"> {/* Adjust border width here */}
              <motion.img 
-               src="https://img.freepik.com/premium-vector/web-development-programmer-code-testing-augmented-reality-illustration_375605-311.jpg?w=1380" 
+               src="https://media-hosting.imagekit.io/8262c3a69bb142f5/[freepicdownloader.com]-web-development-programmer-code-testing-augmented-reality-illustration-medium.jpg?Expires=1840037674&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jcZvhqsFWhtRrb1YLGafUx-mDOvDED~0o3EBmAqJjBPm0DS6hZKwfaXjS1~5U1r5oCyz12IktKY0plp29VlRBlImKn3vt5NFPnXebAJ2g~Ci5jTOOpjFEhfZuhta3qPCEjva1hA0ssNZfexnSrYg2V4S-nGHaJI9oN~bCyURI4hh82KRKkc5PGkU~rwdtsyamCWZgdiZqF5VvlIuk0wEq7WUM~M1wMYUEJw0OFgzeTXM6M1fCzS-82~~MPNAGd6tlPkWiaxWZNq1bdH~-Ad4S7MZDSNDTKVjjxRqSzp8QkF0ri4-VvAYSpx1h7AQUSSP2ugEV-33llxWI8Vann~31A__" 
                alt="Developer" 
                //className="w-full h-64 max-w-xs mx-auto rounded-md object-cover"
               // whileHover={{ scale: 1.05, y: -5 }}
