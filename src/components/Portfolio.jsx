@@ -5,28 +5,28 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 const Portfolio = () => {
   const projects = [
     {
-      title: 'WandeLust Hotel Viewing App',
-      description: 'Developed a Full-stack web application for users to view and add hotel details, with authentication and secure sessions.',
+      title: 'VideoTube - Full-Stack Video Streaming Platform',
+      description: 'Developed a full-stack web application similar to YouTube, allowing users to upload, view, and manage video content with secure authentication and seamless video streaming.',
       image: 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/6ac113d1-b624-42ea-b333-adb249356c73.jpeg',
-      tech: ['MongoDB', 'Express', 'Node.js', 'Cloudinary', 'Atlas Database'],
-      github: 'https://github.com/Abdulmakdoom/Wanderlust_Clone',
-      demo: 'https://wanderlust-clone-eqq7.onrender.com/'
+      tech: ['React.js', 'MongoDB', 'Express', 'Node.js', 'JWT', 'Bcrypt', 'Cloudinary', 'Atlas Database'],
+      github: 'https://github.com/Abdulmakdoom/videotube',
+      demo: 'https://videotube-frontend-one.vercel.app/'
     },
     {
       title: 'WandeLust Hotel Viewing App',
       description: 'Developed a Full-stack web application for users to view and add hotel details, with authentication and secure sessions.',
       image: 'https://i.postimg.cc/Kjn4VbP1/Screenshot-2025-02-22-at-6-27-30-PM.png',
-      tech: ['MongoDB', 'Express', 'Node.js', 'Cloudinary', 'Atlas Database'],
+      tech: ['MongoDB', 'Express', 'Node.js', 'JWT', 'Cloudinary', 'Atlas Database'],
       github: 'https://github.com/Abdulmakdoom/Wanderlust_Clone',
       demo: 'https://wanderlust-clone-eqq7.onrender.com/'
     },
     {
-      title: 'WandeLust Hotel Viewing App',
-      description: 'Developed a Full-stack web application for users to view and add hotel details, with authentication and secure sessions.',
-      image: 'https://i.postimg.cc/Kjn4VbP1/Screenshot-2025-02-22-at-6-27-30-PM.png',
-      tech: ['MongoDB', 'Express', 'Node.js', 'Cloudinary', 'Atlas Database'],
-      github: 'https://github.com/Abdulmakdoom/Wanderlust_Clone',
-      demo: 'https://wanderlust-clone-eqq7.onrender.com/'
+      title: 'Coming Soon',
+      description: 'Coming soon! A new project is in development with exciting features. Stay tuned for more updates.',
+      image: 'https://img.freepik.com/free-vector/coming-soon-text-grunge-background_91128-1643.jpg?t=st=1745428589~exp=1745432189~hmac=dc3eecdbe750f9b017c2d5651f9bf716b717b5a587c01d4d70ff909d81e361ec&w=2000',
+      tech: ['Coming soon...'],
+      github: 'https://github.com/Abdulmakdoom/',
+      demo: ''
     },
   ];
 
@@ -51,7 +51,7 @@ const Portfolio = () => {
                 <img 
                   src={project.image} 
                   alt={project.title}
-                  className="object-contain w-full h-full"
+                  className="object-contain w-full h-full aspect-video"
                 />
               </div>
               <div className="p-6">
