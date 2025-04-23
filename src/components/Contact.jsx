@@ -49,7 +49,7 @@ const Contact = () => {
           >
             <div className="relative w-full h-80 mb-6 mx-auto">
               <img
-                src="https://img.freepik.com/free-photo/handsome-businessman_1098-136.jpg"
+                src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?t=st=1745428876~exp=1745432476~hmac=19a7ef1c2b86d9520fe6e44f289158cfe5e16232de146a3486e6ca14bccceab3&w=1380"
                 alt="User"
                 className="w-full h-full object-cover"
               />
