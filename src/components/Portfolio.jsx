@@ -10,7 +10,7 @@ const Portfolio = () => {
       image: 'https://media-hosting.imagekit.io/72ca59a0fa534988/Screenshot%202025-04-23%20at%2011.19.14%E2%80%AFPM.png?Expires=1840038633&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z4AduFEBdCO-b6zuCmQwHsbOfvZvi9mpXCzWnuMUbqEZiKlwlIXUV2Tpda6JuTNxYSocmigXi8HiKmKZ4i9R6thb9Qi58zbAQ0NBZL43WoZdDCGSTMlcuUzTPtVaMcjyh730DoLo0bTHGOTv4~MkjHvR5usi0JpHgCPG18cvouELUm9ldgOmvkgbaFSp6VtTKYPF4DY8mvyTh0eotgrtw6fQTR4yspfry-H3UXY5IDJblpNKEccjusgFYLcnbihKuGwl5dbaFZ29gfB~M8kyMZ96KSxpkzVhay63xDOG-9lZugRTTx48JDmU~6EkMgb6UbPK7HMDf2GsVh0WhBwB1w__',
       tech: ['React.js', 'MongoDB', 'Express', 'Node.js', 'JWT', 'Bcrypt', 'Cloudinary', 'Atlas Database'],
       github: 'https://github.com/Abdulmakdoom/videotube',
-      demo: 'https://videotube-frontend-one.vercel.app/'
+      demo: 'https://videotube-gules.vercel.app/'
     },
     {
       title: 'WandeLust Hotel Viewing App',
