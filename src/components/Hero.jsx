@@ -88,7 +88,7 @@ const Hero = () => {
         >
           <div className="bg-white dark:bg-[#212121] p-4 rounded-xl shadow-md border border-gray-300 w-full sm:w-[90%] md:w-[80%] lg:w-[70%] mx-auto">
             <motion.img
-              src="https://media-hosting.imagekit.io/8262c3a69bb142f5/[freepicdownloader.com]-web-development-programmer-code-testing-augmented-reality-illustration-medium.jpg?Expires=1840037674&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jcZvhqsFWhtRrb1YLGafUx-mDOvDED~0o3EBmAqJjBPm0DS6hZKwfaXjS1~5U1r5oCyz12IktKY0plp29VlRBlImKn3vt5NFPnXebAJ2g~Ci5jTOOpjFEhfZuhta3qPCEjva1hA0ssNZfexnSrYg2V4S-nGHaJI9oN~bCyURI4hh82KRKkc5PGkU~rwdtsyamCWZgdiZqF5VvlIuk0wEq7WUM~M1wMYUEJw0OFgzeTXM6M1fCzS-82~~MPNAGd6tlPkWiaxWZNq1bdH~-Ad4S7MZDSNDTKVjjxRqSzp8QkF0ri4-VvAYSpx1h7AQUSSP2ugEV-33llxWI8Vann~31A__"
+              src="main.jpg"
               alt="Developer"
               className="w-full h-auto rounded-md object-cover"
             />
