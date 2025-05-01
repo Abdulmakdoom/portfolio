@@ -41,7 +41,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-4 mr-9 sm:mr-0">
             <DarkModeToggle/>
             <motion.a
-              href="https://drive.google.com/file/d/1OiKcMEUfTRkuavR5I3ei09AoVx5AU4yL/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1WntzENmQAIVMLmF68b5yKbC6yaENmkg_/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0 }}
